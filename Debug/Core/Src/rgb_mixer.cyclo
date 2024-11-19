@@ -1,0 +1,7 @@
+C:/TFT LCD Workspace/My Workspace/003_LVGL_RGB_Mixer/lvgl/src/hal/../draw/../misc/lv_color.h:603:26:lv_color_make	1
+C:/TFT LCD Workspace/My Workspace/003_LVGL_RGB_Mixer/lvgl/src/hal/../draw/../misc/lv_color.h:703:26:lv_color_black	1
+C:/TFT LCD Workspace/My Workspace/003_LVGL_RGB_Mixer/lvgl/src/core/lv_disp.h:184:26:lv_scr_act	1
+C:/TFT LCD Workspace/My Workspace/003_LVGL_RGB_Mixer/lvgl/src/widgets/slider/lv_slider.h:104:20:lv_slider_set_range	1
+C:/TFT LCD Workspace/My Workspace/003_LVGL_RGB_Mixer/lvgl/src/widgets/slider/lv_slider.h:128:23:lv_slider_get_value	1
+C:/TFT LCD Workspace/My Workspace/LVGL Downloads/lv_port_pc_visual_studio/LvglWindowsSimulator/rgb_mixer.c:15:6:slider_callback	4
+C:/TFT LCD Workspace/My Workspace/LVGL Downloads/lv_port_pc_visual_studio/LvglWindowsSimulator/rgb_mixer.c:40:6:rgb_mixer_create_ui	1
